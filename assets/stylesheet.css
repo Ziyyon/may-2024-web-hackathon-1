@@ -99,13 +99,14 @@ h4 {
 
 .about {
     padding: 0px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     max-width: 500px;
     color: whitesmoke;
     text-align: center;
     margin: auto;
     margin-top: 60px;
+    margin-bottom: 150px;
 }
 
 .about h4 {
@@ -114,13 +115,14 @@ h4 {
 
 .experience {
     padding: 0px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     max-width: 500px;
     color: whitesmoke;
     text-align: center;
     margin: auto;
     margin-top: 60px;
+    margin-bottom: 150px;
 }
 
 .experience p {
@@ -129,13 +131,14 @@ h4 {
 
 .education {
     padding: 0px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     max-width: 500px;
     color: whitesmoke;
     text-align: center;
     margin: auto;
     margin-top: 60px;
+    margin-bottom: 150px;
 }
 
 .education p {
@@ -151,7 +154,7 @@ h4 {
 
 .portfolio {
     padding: 0px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     max-width: 400px;
     color: whitesmoke;
@@ -197,7 +200,7 @@ display: block;
 
 .contacts {
     padding: 0px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     max-width: 500px;
     color: whitesmoke;
@@ -382,7 +385,7 @@ display: block;
         font-size: medium;
     }
 
-    .portfolio {
+    .portfolio h4 {
         margin-top: 30px;
         padding: 15px;
         font-size: medium;
